@@ -1,10 +1,11 @@
-🎨 Free Drawing App (Serbest Çizim Uygulaması)
+  🎨 Free Drawing App (Serbest Çizim Uygulaması)
 
 Bu proje, Python’un Turtle modülünü kullanarak geliştirilen basit bir fare ile serbest çizim uygulamasıdır.
 Kullanıcı, fareyi kullanarak ekranda dilediği gibi çizim yapabilir.
 Ayrıca renk değiştirme ve ekranı temizleme özellikleri de bulunmaktadır.
 
-🚀 Özellikler
+
+  🚀 Özellikler
 
 🖱️ Fare ile ekranda çizim yapma
 
@@ -14,13 +15,15 @@ Ayrıca renk değiştirme ve ekranı temizleme özellikleri de bulunmaktadır.
 
 🐢 Python Turtle modülü ile geliştirilmiştir
 
-🧩 Kullanılan Teknolojiler
+
+  🧩 Kullanılan Teknolojiler
 
 Python 3.x
 
 Turtle modülü
 
-⚙️ Kurulum ve Çalıştırma
+
+  ⚙️ Kurulum ve Çalıştırma
 
 Bu depoyu klonla veya ZIP olarak indir:
 
@@ -34,7 +37,8 @@ Dosyayı çalıştır:
 
 python drawing_app.py
 
-💡 Kullanım Talimatları
+
+  💡 Kullanım Talimatları
 
 Sol tıklama: Çizim yapmak
 
@@ -42,6 +46,7 @@ Sağ tıklama: Rengi rastgele değiştirir
 
 Orta tıklama: Ekranı temizler
 
-🧠 Geliştirici
+
+  🧠 Geliştirici
 
 https://github.com/mucahit-source
